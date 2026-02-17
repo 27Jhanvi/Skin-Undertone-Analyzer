@@ -17,7 +17,7 @@ Many rely on basic image filters rather than real color science
 
 There is limited transparency in how results are calculated
 
-As someone curious about my own undertone — and frustrated by paywalled tools — I decided to build my own data-driven, computer vision-based undertone analyzer.
+As someone curious about my own undertone and frustrated by paywalled tools ,I decided to build my own data-driven, computer vision-based undertone analyzer.
 
 This project transforms a personal curiosity into a deployable AI product.
 
@@ -129,7 +129,7 @@ Optional mask visualization
 
 Debug color statistics (if enabled)
 
-Bingo — you now know your undertone.
+Bingo!!!! you now know your undertone.
 
 Why This Is Different???
 
@@ -180,7 +180,7 @@ Data Science & Applied AI Enthusiast
 
 Final Note
 
-This project started as a personal curiosity —
+This project started as a personal curiosity 
 and evolved into a fully deployed AI-powered beauty tool.
 
 Sometimes the best way to get an answer is to build the system yourself.
